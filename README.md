@@ -1,0 +1,2 @@
+# AI
+Only for Studying
